@@ -1,0 +1,48 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "lobster" , "cursive";
+    background: url(lndpg1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#hook {
+  text-align: center;
+  color: white;
+  font-size: 5rem;
+  text-shadow: 3px 4px black;
+}
+
+.btn-xl {
+    padding: 10px 100px;
+    border-radius: 400px;
+    background: rgba(10, 68, 163, 0.8);
+    text-shadow: 1px 1px black;
+    border-color: black;
+    font-size: 26px;
+}
+
+.btn-xl:hover {
+    background: rgba(10, 68, 163, 0.9);
+    border-color: black;
+    
+}
+
+#liner {
+    background-color: rgba(10, 68, 163, 1);
+    max-width: 100px;
+    height: 1px;
+    
+}
+
+.buffer {
+    height: 2rem;
+}
+
+a {
+    color: white;
+}
